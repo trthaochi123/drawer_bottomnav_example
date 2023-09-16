@@ -65,7 +65,7 @@ class _MainPageState extends State<MainPage> {
       key: scaffoldKey,
       appBar: AppBar(
         elevation: 0, // bóng
-        iconTheme: IconThemeData(
+        iconTheme: const IconThemeData(
           color: Colors.black,
           size: 36
         ),
