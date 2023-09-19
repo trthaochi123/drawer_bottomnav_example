@@ -1,4 +1,4 @@
-# drawer_and_bottom_nav_example
+# final_project_flutter_course
 
 A new Flutter project.
 
